@@ -1,0 +1,6 @@
+android-build
+build
+src.*
+libs.ios.*/
+libs.android.*/
+boost_*
